@@ -1,14 +1,15 @@
 # ucsd_bootcamp_project1
 ## Contributors: Tina Zhou, Calvin Luu, Steve Mayer, Jeffrey Nguyen
 
-Presentation - 3/27/2021
+### Presentation - 3/27/2021
 
-Within this project we will attempt to analyze and uncover what factors affect happiness ranking and what variables are correlated.
-Data Source - World Happiness Report (2015-2019)
-Resources - data used and screenshots of all graphs
+### Within this project we will attempt to analyze and uncover what factors affect happiness ranking and what variables are correlated.
+### Data Source - World Happiness Report (2015-2019)
+### Resources - data used and screenshots of all graphs
+### Main Analysis file - happiness_analysis.ipynb
 
-Process -
-  We ran correlation tests and utilized gmaps to visualize and mark siginificant values, as well as create scatter plots and bar charts of the data.
+### Process -
+###   We ran correlation tests and utilized gmaps to visualize and mark siginificant values, as well as create scatter plots and bar charts of the data.
 
 /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 
