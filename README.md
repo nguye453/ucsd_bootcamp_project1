@@ -11,7 +11,7 @@
 ### Process -
 ### -- We ran correlation tests and utilized gmaps to visualize and mark siginificant values, as well as create scatter plots and bar charts of the data.
 
-### link to presentation: https://docs.google.com/presentation/d/1Bf8619K3iKvkJ8GTEfjzJsYcWjcO55OgNFJaHUCpp3k/edit#slide=id.gc92229203a_0_209
+### link to presentation: https://docs.google.com/presentation/d/1Bf8619K3iKvkJ8GTEfjzJsYcWjcO55OgNFJaHUCpp3k/edit?usp=sharing
 
 /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 
