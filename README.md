@@ -9,7 +9,7 @@
 ### Main Analysis file - happiness_analysis.ipynb
 
 ### Process -
-### \t\t\tWe ran correlation tests and utilized gmaps to visualize and mark siginificant values, as well as create scatter plots and bar charts of the data.
+### -- We ran correlation tests and utilized gmaps to visualize and mark siginificant values, as well as create scatter plots and bar charts of the data.
 
 /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 
