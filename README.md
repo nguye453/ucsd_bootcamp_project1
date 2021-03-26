@@ -1,5 +1,5 @@
 # ucsd_bootcamp_project1
-## Contributors: Tina Zhou, Calvin Luu, Steve Mayer, Jeffrey Nguyen
+## Contributors: Tina Zhou, Calvin Luu, Steve Meyer, Jeffrey Nguyen
 
 ### Presentation - 3/27/2021
 
