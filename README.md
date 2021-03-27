@@ -1,5 +1,5 @@
 # ucsd_bootcamp_project1
-## Contributors: Tina Zhou, Calvin Luu, Steve Mayer, Jeffrey Nguyen
+## Contributors: Tina Zhou, Calvin Luu, Steve Meyer, Jeffrey Nguyen
 
 ### Presentation - 3/27/2021
 
@@ -10,6 +10,8 @@
 
 ### Process -
 ### -- We ran correlation tests and utilized gmaps to visualize and mark siginificant values, as well as create scatter plots and bar charts of the data.
+
+### link to presentation: https://docs.google.com/presentation/d/1Bf8619K3iKvkJ8GTEfjzJsYcWjcO55OgNFJaHUCpp3k/edit?usp=sharing
 
 /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 
